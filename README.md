@@ -42,9 +42,15 @@ find Simple Interest.
 
 # Day 4
 ### Problems Solves
+- [x] [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
+- [x] [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
+- [x] [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
+- [x] [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
+- [x] [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
+- [x] [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
+- [x] [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
+- [x] [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
 - [x] [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - [x] [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 - [x] [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
 - [x] [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
-- [x] [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
-- [x] [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
