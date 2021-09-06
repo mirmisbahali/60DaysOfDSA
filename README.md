@@ -38,5 +38,13 @@ find Simple Interest.
 - [x] [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 - [x] [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
 - [x] [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
-- [ ] [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - [x] [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)
+
+# Day 4
+### Problems Solves
+- [x] [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
+- [x] [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+- [x] [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
+- [x] [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
+- [x] [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
+- [x] [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
