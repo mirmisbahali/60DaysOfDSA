@@ -41,7 +41,7 @@ find Simple Interest.
 - [x] [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)
 
 # Day 4
-### Problems Solves
+### Problems Solved
 - [x] [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
 - [x] [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
 - [x] [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
@@ -56,7 +56,7 @@ find Simple Interest.
 - [x] [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
 
 # Day 5
-### Problems Solves
+### Problems Solved
 - [x] [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)
 - [x] [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)
 - [x] [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
