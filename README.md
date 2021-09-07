@@ -59,3 +59,6 @@ find Simple Interest.
 ### Problems Solves
 - [x] [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)
 - [x] [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)
+- [x] [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
+- [x] [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
+- [x] [Two Sum](https://leetcode.com/problems/two-sum/)
