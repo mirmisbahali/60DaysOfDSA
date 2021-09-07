@@ -54,3 +54,8 @@ find Simple Interest.
 - [x] [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 - [x] [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
 - [x] [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
+
+# Day 5
+### Problems Solves
+- [x] [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)
+- [x] [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)
