@@ -62,3 +62,9 @@ find Simple Interest.
 - [x] [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
 - [x] [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/)
+
+# Day 6
+### Problems Solved
+- [x] [Majority Element](https://leetcode.com/problems/majority-element/)
+- [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- [x] [Missing Number](https://leetcode.com/problems/missing-number/)
