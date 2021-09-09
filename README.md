@@ -69,3 +69,7 @@ find Simple Interest.
 - [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [x] [Missing Number](https://leetcode.com/problems/missing-number/)
 - [x] [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
+
+# Day 7
+### Problems Solved
+- [x] [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
