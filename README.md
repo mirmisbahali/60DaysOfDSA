@@ -74,3 +74,8 @@ find Simple Interest.
 ### Problems Solved
 - [x] [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
 - [x] [Assign Cookies](https://leetcode.com/problems/assign-cookies/)
+
+# Day 8
+### Problems Solved
+- [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+- [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
