@@ -79,3 +79,7 @@ find Simple Interest.
 ### Problems Solved
 - [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 - [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+
+# Day 9
+### Problems Solved
+- [x] [Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/)
