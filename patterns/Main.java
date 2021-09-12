@@ -1,7 +1,25 @@
 class Main {
   public static void main(String args[]) {
-    pattern14(5);
+    pattern15(5);
   }
+
+  static void pattern15(int n) {
+    for (int row = 1; row <= 2*n; row++) {
+
+      int spaces = row > n ? (row - n) : (n - row);
+      int numberOfCols = 2*(n - spaces) - 1;
+
+      for (int i = 0; i < spaces; i++) System.out.print(" ");
+
+      for (int col = 1; col <= numberOfCols; col++) {
+        if (col == 1 || col == numberOfCols) System.out.print("*");
+        else System.out.print(" ");
+      }
+
+      System.out.println();
+    }
+  }
+
 
   static void pattern14(int n) {
     for (int row = 1; row <= n; row++) {
