@@ -1,6 +1,6 @@
 class Main {
   public static void main(String args[]) {
-    pattern6(5);
+    pattern8(5);
   }
   static void pattern1(int n) {
     for (int row = 0; row < n; row++) {
@@ -58,6 +58,26 @@ class Main {
       for (int i = 0; i < stars; i++) {
         System.out.print("*");
       }
+      System.out.println();
+    }
+  }
+
+  static void pattern7(int n) {
+    for (int row = 0; row < n; row++) {
+      int spaces = row;
+      int stars = n - row;
+      for (int i = 0; i < spaces; i++) System.out.print(" ");
+      for (int i = 0; i < stars; i++) System.out.print("*");
+      System.out.println();
+    }
+  }
+
+  static void pattern8(int n) {
+    for (int row = 1; row <= n; row++) {
+      int spaces = n - row;
+      int stars = row*2 - 1;
+      for (int i = 0; i < spaces; i++) System.out.print(" ");
+      for (int i = 0; i < stars; i++) System.out.print("*");
       System.out.println();
     }
   }
