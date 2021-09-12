@@ -1,6 +1,6 @@
 class Main {
   public static void main(String args[]) {
-    problem1(5);
+    problem2(5);
   }
   static void problem1(int n) {
     for (int row = 0; row < n; row++) {
@@ -9,5 +9,15 @@ class Main {
       }
       System.out.println();
     }
-  } 
+  }
+
+  static void problem2(int n) {
+    for (int row = 1; row <= n; row++) {
+      for (int col = 1; col <= row; col++) {
+        System.out.print("* ");
+      }
+      System.out.println();
+    }
+  }
+
 }
