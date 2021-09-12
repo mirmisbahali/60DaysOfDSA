@@ -83,3 +83,6 @@ find Simple Interest.
 # Day 9
 ### Problems Solved
 - [x] [Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/)
+
+# Day 10
+Solved 1 to 15 [Pattern Problems](./patterns/patterns.md)
