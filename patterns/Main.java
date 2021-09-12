@@ -1,6 +1,18 @@
 class Main {
   public static void main(String args[]) {
-    pattern9(5);
+    pattern10(5);
+  }
+
+  static void pattern10(int n) {
+    for (int row = 1; row <= n; row++) {
+      int spaces = n - row;
+      for (int i = 0; i < spaces; i++) System.out.print(" ");
+      for (int col = 0; col < (row*2) - 1; col++) {
+        if (col % 2 == 0) System.out.print("*");
+        else System.out.print(" ");
+      }
+      System.out.println();
+    }
   }
 
   static void pattern9(int n) {
