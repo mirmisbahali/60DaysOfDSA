@@ -1,6 +1,22 @@
 class Main {
   public static void main(String args[]) {
-    pattern13(5);
+    pattern14(5);
+  }
+
+  static void pattern14(int n) {
+    for (int row = 1; row <= n; row++) {
+      int spaces = row-1;
+      int numberOfCols = 2*(n - row) + 1;
+      for (int i = 0; i < spaces; i++) System.out.print(" ");
+      for (int i = 1; i <= numberOfCols; i++) {
+        if (i == 1 || i == numberOfCols || row == 1) {
+          System.out.print("*");
+        } else {
+          System.out.print(" ");
+        }
+      }
+      System.out.println();
+    }
   }
 
   static void pattern13(int n) {
@@ -17,7 +33,7 @@ class Main {
       }
       System.out.println();
     }
-    
+
   }
 
   static void pattern12(int n) {
