@@ -86,3 +86,8 @@ find Simple Interest.
 
 # Day 10
 Solved 1 to 15 [Pattern Problems](./patterns/patterns.md)
+
+# Day 11
+- Learnt recursion.
+### Problems Solved
+- [x] [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
