@@ -95,3 +95,4 @@ Solved 1 to 15 [Pattern Problems](./patterns/patterns.md)
 # Day 12
 ### Problems Solved
 - [x] [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+- [x] [Rotate Array](https://leetcode.com/problems/rotate-array/)
