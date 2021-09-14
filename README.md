@@ -91,3 +91,7 @@ Solved 1 to 15 [Pattern Problems](./patterns/patterns.md)
 - Learnt recursion.
 ### Problems Solved
 - [x] [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
+
+# Day 12
+### Problems Solved
+- [x] [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
