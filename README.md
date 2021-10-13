@@ -100,3 +100,4 @@ Solved 1 to 15 [Pattern Problems](./patterns/patterns.md)
 # Day 13
 - Find Factorial using recursion.
 - Print Fibonacci series using recursion.
+- Nth term of GP.
