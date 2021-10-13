@@ -1,13 +1,16 @@
+import java.utils.*;
+
 class ReverseString {
   public static void main(String args[]) {
-    char[] s = {"h","e","l","l","o"};
-    reverse(s, 0);
+    char[] s = {'h','e','l','l','o'};
+    Array.toString(reverse(s, 0, s.length-1));
   }
 
-  static void reverse(char[] s, int n) {
-    if (n == s.length-1) System.out.print(s[n] + " ");
-    
-    System.out.print(reverse(s, n+1) + " ");
+  public static void reverse(char[] s, int n, int length) {
+    if (n == length) {
+      s[length - n] = s[n];
+    }
+    reverse(s, n++, length);
   }
 
 }

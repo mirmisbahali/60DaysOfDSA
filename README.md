@@ -98,4 +98,5 @@ Solved 1 to 15 [Pattern Problems](./patterns/patterns.md)
 - [x] [Rotate Array](https://leetcode.com/problems/rotate-array/)
 
 # Day 13
-Git hub demo
+- Find Factorial using recursion.
+- Print Fibonacci series using recursion.
