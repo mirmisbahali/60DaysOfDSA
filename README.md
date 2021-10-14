@@ -107,3 +107,5 @@ Solved 1 to 15 [Pattern Problems](./patterns/patterns.md)
 - [x] [Power of Three](https://leetcode.com/problems/power-of-three/)
 - [x] [Power of Four](https://leetcode.com/problems/power-of-four/)
 - [x] [Sum of Natural Numbers Using Recursion](https://www.geeksforgeeks.org/sum-of-natural-numbers-using-recursion/)
+- [x] Bubble Sort Using Recursion
+- [x] Insertion Sort Using Recursion.
