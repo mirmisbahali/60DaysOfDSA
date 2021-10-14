@@ -101,3 +101,8 @@ Solved 1 to 15 [Pattern Problems](./patterns/patterns.md)
 - Find Factorial using recursion.
 - Print Fibonacci series using recursion.
 - Nth term of GP.
+
+# Day 14
+- [x] [Power of Two](https://leetcode.com/problems/power-of-two/)
+- [x] [Power of Three](https://leetcode.com/problems/power-of-three/)
+- [x] [Power of Four](https://leetcode.com/problems/power-of-four/)

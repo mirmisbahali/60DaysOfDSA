@@ -1,14 +1,16 @@
 class PowerOfTwo {
   public static void main(String[] args) {
-    System.out.println(isPowerOfTwo(48));
+    System.out.println(isPowerOfTwo(32));
   }
 
   static boolean isPowerOfTwo(int n) {
-    if (n > 2) {
-      return isPowerOfTwo(n/2);
-    } else if (n == 2) {
+    if (n <= 0) {
+      return false;
+    } else if (n == 1) {
       return true;
-    } 
-    return false;
+    } else if (n % 2 != 0) {
+      return false;
+    }
+    return isPowerOfTwo(n/2);
   }
 }
