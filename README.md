@@ -109,3 +109,6 @@ Solved 1 to 15 [Pattern Problems](./patterns/patterns.md)
 - [x] [Sum of Natural Numbers Using Recursion](https://www.geeksforgeeks.org/sum-of-natural-numbers-using-recursion/)
 - [x] Bubble Sort Using Recursion
 - [x] Insertion Sort Using Recursion.
+
+# Day 15
+- [x] Solved reverse a number using recursion
