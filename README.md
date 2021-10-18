@@ -116,3 +116,4 @@ Solved 1 to 15 [Pattern Problems](./patterns/patterns.md)
 # Day 16
 - Implemented Binary Three
 - Solved Depth First Values Problem
+- Solved Breadth First Values Problem
