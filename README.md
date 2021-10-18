@@ -114,6 +114,6 @@ Solved 1 to 15 [Pattern Problems](./patterns/patterns.md)
 - [x] Solved reverse a number using recursion
 
 # Day 16
-- Implemented Binary Three
+- Implemented Binary tree
 - Solved Depth First Values Problem
 - Solved Breadth First Values Problem
