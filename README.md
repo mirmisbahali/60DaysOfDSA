@@ -117,3 +117,7 @@ Solved 1 to 15 [Pattern Problems](./patterns/patterns.md)
 - Implemented Binary tree
 - Solved Depth First Values Problem
 - Solved Breadth First Values Problem
+
+# Day 17
+### Problems Solved:
+- Find sum of all elements in a binary tree (iterative).
