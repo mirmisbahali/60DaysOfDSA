@@ -121,3 +121,4 @@ Solved 1 to 15 [Pattern Problems](./patterns/patterns.md)
 # Day 17
 ### Problems Solved:
 - Find sum of all elements in a binary tree (iterative).
+- Find sum of all elements in a binary tree (using recursion).
