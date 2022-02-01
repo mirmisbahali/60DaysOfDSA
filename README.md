@@ -122,3 +122,7 @@ Solved 1 to 15 [Pattern Problems](./patterns/patterns.md)
 ### Problems Solved:
 - Find sum of all elements in a binary tree (iterative).
 - Find sum of all elements in a binary tree (using recursion).
+
+# Day 18
+### Problems Solved:
+- [x] [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) `leetcode`
